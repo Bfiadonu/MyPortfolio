@@ -1,0 +1,11 @@
+{
+    "name": "my-todo-project",
+    "version": "1.0.0",
+    "description": "This will load my todo project",
+    "scripts": {
+      "start": "harp server --port $PORT"
+    },
+    "dependencies": {
+      "harp": "*"
+    }
+  }
