@@ -1,0 +1,11 @@
+{
+    "name": "my-personal-booklist",
+    "version": "1.0.0",
+    "description": "This will load my booklist html site",
+    "scripts": {
+      "start": "harp server --port $PORT"
+    },
+    "dependencies": {
+      "harp": "*"
+    }
+  }
