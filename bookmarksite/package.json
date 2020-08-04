@@ -1,0 +1,11 @@
+{
+    "name": "my-bookmark",
+    "version": "1.0.0",
+    "description": "This will load my bookmark html site",
+    "scripts": {
+      "start": "harp server --port $PORT"
+    },
+    "dependencies": {
+      "harp": "*"
+    }
+  }
